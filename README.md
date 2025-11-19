@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm AnimateAI!
 
-<!--
-**AfexGenesis/AfexGenesis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a student with a passion for cutting-edge science and technology. 🚀
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🎓 **Student** Learning Genetic Engineering
+- 🧬 **Genetic Engineer** De-Extinction of Dinosaurs
+- 🧪 **Researcher** Silico designing Cancer Curing custom Hybrid Virus
+- 📹 **Content Creator** Just a Regular Dude who does YouTube for fun
+- 🚗 **BMW M4 Enthusiast** - the Bayerische Motoren Werke💨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills & Technologies
+I'm constantly learning and expanding my toolkit:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)     
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfexGenesis&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+- [YouTube](https://www.youtube.com/@AnimateLime3597)
+- [Twitch](https://www.twitch.tv/animateai)
+- [Instagram](https://www.instagram.com/nipun_weerapperuma)
+- [Website](https://afexgenesis.netlify.app)
+
+## 🎯 Current Focus
+- Advancing genetic engineering research
+- Learning low-level programming (Assembly)
+- Creating engaging content
+
+---
+
+⭐️ *Feel free to explore my repositories and connect!* ⭐️
+
+![Profile Views](https://komarev.com/ghpvc/?username=AfexGenesis&color=blueviolet)
