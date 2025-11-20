@@ -23,20 +23,3 @@ I'm constantly learning and expanding my toolkit:
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfexGenesis&show_icons=true&theme=radical)
-
-## 🔗 Connect with Me
-- [YouTube](https://www.youtube.com/@AnimateLime3597)
-- [Twitch](https://www.twitch.tv/animateai)
-- [Instagram](https://www.instagram.com/nipun_weerapperuma)
-- [Website](https://afexgenesis.netlify.app)
-
-## 🎯 Current Focus
-- Advancing genetic engineering research
-- Learning low-level programming (Assembly)
-- Creating engaging content
-
----
-
-⭐️ *Feel free to explore my repositories and connect!* ⭐️
-
-![Profile Views](https://komarev.com/ghpvc/?username=AfexGenesis&color=blueviolet)
