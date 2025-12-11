@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a student with a passion for cutting-edge scie
 - 🧪 **Researcher** Silico designing Cancer Curing custom Hybrid Virus
 - 📹 **Content Creator** Just a Regular Dude who does YouTube for fun
 - 🚗 **BMW M4 Enthusiast** - the Bayerische Motoren Werke💨
-- 🏎️ **F1/GT3 R̶a̶c̶e̶r̶  Fan** - Dream **B̶i̶g̶ ** small or not at all❤️‍🩹
+- 🏎️ **F1/GT3 R̶a̶c̶e̶r̶  Fan** - Dream **B̶i̶g̶** small or not at all❤️‍🩹
 
 ## 💻 Skills & Technologies
 I'm constantly learning and expanding my toolkit:
