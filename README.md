@@ -3,12 +3,13 @@
 Welcome to my GitHub profile! I'm a student with a passion for cutting-edge science and technology. 🚀
 
 ## 🌟 About Me
-- 🎓 **Student** Learning Genetic Engineering
-- 🧬 **Genetic Engineer** De-Extinction of Dinosaurs
-- 🧪 **Researcher** Silico designing Cancer Curing custom Hybrid Virus
-- 📹 **Content Creator** Just a Regular Dude who does YouTube for fun
-- 🚗 **BMW M4 Enthusiast** - the Bayerische Motoren Werke💨
-- 🏎️ **F1/GT3 R̶a̶c̶e̶r̶  Fan** - Dream **B̶i̶g̶** small or not at all❤️‍🩹
+- 🎓 **Student** Learning Genetic Engineering.
+- 🧬 **Genetic Engineer** De-Extinction of Dinosaurs.
+- 🧪 **Researcher** Silico designing Cancer Curing custom Hybrid Virus.
+- 🚀 **Aerospace Engineer** Designing a Rocket that can go to Venus.
+- 📹 **Content Creator** Just a Regular Dude who does YouTube for fun.
+- 🚗 **BMW M4 Enthusiast** - the Bayerische Motoren Werke.
+- 🏎️ **F1/GT3 R̶a̶c̶e̶r̶  Fan** - Dream **B̶i̶g̶** small or not at all.❤️‍🩹
 
 ## 💻 Skills & Technologies
 I'm constantly learning and expanding my toolkit:
@@ -21,4 +22,3 @@ I'm constantly learning and expanding my toolkit:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)     
-
